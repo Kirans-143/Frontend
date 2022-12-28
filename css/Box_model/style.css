@@ -1,0 +1,16 @@
+body {
+  place-items: center;
+  height: 100vh;
+  display: grid;
+}
+
+div {
+  height: 200px;
+  width: 250px;
+  background-color: red;
+  display: grid;
+  place-items: center;
+  padding: 10px;
+  border: 10px solid black;
+  margin: 20px;
+}
